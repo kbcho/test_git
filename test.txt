@@ -2,5 +2,5 @@
     <li>Erlang</li>
     <li>Pythong</li>
     <li>Objectove C</li>
-    <li>javascript</li>
+    <li>ECMAScript</li>
 </ul>
